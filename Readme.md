@@ -3,7 +3,7 @@
 ## Changes
 ### Notebook
 If you wish to experiment with the code, you can find the notebook in the reposititory at the link below. There is no collab notebook due to the size of the dataset exceeding GitHub's size limit.<br> 
-[Notebook - Animal Classification](https://colab.research.google.com/drive/1TCBJv__WFIy80_jBQQWCfklHgFmN3LZ2?usp=drive_link)
+[Notebook - Animal Classification](https://github.com/SHAKyMLRepo/Project-8-Animal-Image-Classification-using-CNNs/blob/main/AnimalClassification-CNN.ipynb)
 <br>
 ### Project Goals
  This project was inspired and guided by a Jupyter notebook that creates a custome Convolutional Neural Network to complete an Image Classfication task. This notebooks can be found [here](https://www.kaggle.com/code/epiktroll/flowers-recognition-with-custom-cnn) for credit to the author and reference for those interested.
